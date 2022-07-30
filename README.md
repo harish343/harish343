@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 📫 How to reach me: https://www.youtube.com/channel/UCfoqAYsb6m5F9efmDVZfvNQ
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://i.gifer.com/YgbO.gif" width="230">
+
 <!--
 **harish343/harish343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

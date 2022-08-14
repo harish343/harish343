@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 📫 How to reach me: https://www.youtube.com/channel/UCfoqAYsb6m5F9efmDVZfvNQ
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <img align='right' src="http://www.pokestadium.com/sprites/xy/pikachu.gif" width="230">
 
 <!--

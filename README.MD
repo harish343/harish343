@@ -17,6 +17,13 @@
  
  <img alt="Ubuntu" width="30px" src="/Assets/ubuntu.png"/>|<img alt="Linux" width="30px" src="/Assets/linux.png"/>|<img alt="Git" width="30px" src="/Assets/git.png"/>|<img alt="VSCode" width="30px" src="/Assets/vscode.png"/>|
  |--|--|--|--|
+ 
+ ** views **
+---
+[![](https://visitcount.itsvg.in/api?id=harish343-png&icon=9&color=6)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=harish343&label=Profile%20Views&icon=3&pretty=false" />
+</a>
 <!--
 **harish343/harish343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

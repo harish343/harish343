@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **harishnarnaware74@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-yvnQOvi-5hr7z2sdHZ4pv4P-iHZoebn/view](https://drive.google.com/file/d/1-yvnQOvi-5hr7z2sdHZ4pv4P-iHZoebn/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cy4U2wVNyTZiSWSitqAuaCV5Chs_hdBz/view?usp=drive_link](https://drive.google.com/file/d/1cy4U2wVNyTZiSWSitqAuaCV5Chs_hdBz/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
